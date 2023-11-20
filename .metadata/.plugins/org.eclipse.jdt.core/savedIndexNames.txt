@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\aluno\Documents\Isaque_Barbosa\Isaque_Barbosa\FPOO\ProjetoJava1\ProjetoExercicio\src\CalculoPrestacao\.metadata\.plugins\org.eclipse.jdt.core
+2514809501.index
+3058942407.index
